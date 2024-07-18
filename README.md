@@ -1,0 +1,1 @@
+Reproducer project for https://youtrack.jetbrains.com/issue/IDEA-312816.
